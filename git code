@@ -1,0 +1,6 @@
+
+ wThe next feature is a banner on the main page, saying the pet shop will soon be offering badgers. 
+Add and commit index.html in one step, skipping the staging area.
+
+git checkout -- cats.html index.html
+
